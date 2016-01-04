@@ -1,0 +1,13 @@
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Blog.Infra.Data.dll.config
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Blog.Infra.Data.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Blog.Infra.Data.pdb
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Blog.Domain.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\EntityFramework.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\Blog.Domain.pdb
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\EntityFramework.xml
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\obj\Debug\Blog.Infra.Data.csprojResolveAssemblyReference.cache
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\obj\Debug\Blog.Infra.Data.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Infra.Data\obj\Debug\Blog.Infra.Data.pdb

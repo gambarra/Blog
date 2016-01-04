@@ -1,0 +1,4 @@
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain\bin\Debug\Blog.Domain.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain\bin\Debug\Blog.Domain.pdb
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain\obj\Debug\Blog.Domain.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain\obj\Debug\Blog.Domain.pdb

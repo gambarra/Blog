@@ -1,0 +1,9 @@
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Blog.Domain.Test.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Blog.Domain.Test.pdb
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Moq.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Moq.xml
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\obj\Debug\Blog.Domain.Test.csprojResolveAssemblyReference.cache
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\obj\Debug\Blog.Domain.Test.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\obj\Debug\Blog.Domain.Test.pdb
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Blog.Domain.dll
+E:\Projetos\EmpregoNovo\Blog 20151224\Blog\Blog\Blog.Domain.Test\bin\Debug\Blog.Domain.pdb
